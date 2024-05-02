@@ -1,14 +1,14 @@
 # 💫 About Me:<br>
 
 ### Hi there, I'm Musab Obada Y. Elsamani! 👋<br>
-Software Engineer | Full-Stack Developer | React Developer<br>
-✨ **Objective**: 
+Software Engineer | Full-Stack Developer | React Developer<br><br><br>
+✨ **Objective**: <br>
 Passionate about leveraging technology to drive innovation and solve complex challenges, I am committed to crafting intuitive and dynamic applications that enhance user experiences. I specialize in Full-Stack development, with proficiency in a wide range of technologies including React, Node.js, MongoDB, MERN Stack, and Microservices architecture.
 
-🚀 **Experience**:
+🚀 **Experience**:<br>
 As a Junior Software Developer, I am eager to contribute to impactful projects and continue learning and growing in the dynamic field of Software Development. Let's connect and explore opportunities for collaboration!
 
-🎓 **Education**: 
+🎓 **Education**: <br>
  Bachelor of Engineering in Electrical and Electronics Engineering  from the University of Khartoum (September 2016 - November 2023). 
  
 # 💻 Tech Stack:
@@ -71,18 +71,11 @@ As a Junior Software Developer, I am eager to contribute to impactful projects a
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<br>
-<br>
-<br>
-<br>
-
-[![](https://visitcount.itsvg.in/api?id=musabsamani&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Generated with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
 ### 💬 Get in touch:
 Feel free to reach out to me via :
 - Email at me@elsamani.com 
 - Connect with me on LinkedIn: [@musabsamani](https://www.linkedin.com/in/musabsamani).
+<br><br>
+[![](https://visitcount.itsvg.in/api?id=musabsamani&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Generated with GPRM ( https://gprm.itsvg.in ) -->
