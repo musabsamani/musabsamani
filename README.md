@@ -73,7 +73,7 @@ As a Junior Software Developer, I am eager to contribute to impactful projects a
 
 ### 💬 Get in touch:
 Feel free to reach out to me via :
-- Email at me@elsamani.com 
+- Email at dev@elsamani.com 
 - Connect with me on LinkedIn: [@musabsamani](https://www.linkedin.com/in/musabsamani).
 <br><br>
 [![](https://visitcount.itsvg.in/api?id=musabsamani&icon=0&color=0)](https://visitcount.itsvg.in)
