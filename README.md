@@ -61,6 +61,8 @@ As a Junior Software Developer, I am eager to contribute to impactful projects a
 
 # 📊 GitHub Stats:
 
+[![wakatime](https://wakatime.com/badge/user/d108a831-9c10-4127-bbac-108a7ff14b13.svg)](https://wakatime.com/@d108a831-9c10-4127-bbac-108a7ff14b13)
+
 ![](https://github-readme-stats.vercel.app/api?username=musabsamani&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=musabsamani&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=musabsamani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
