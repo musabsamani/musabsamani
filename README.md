@@ -6,7 +6,7 @@ Software Engineer | Full-Stack Developer | React Developer<br><br><br>
 Passionate about leveraging technology to drive innovation and solve complex challenges, I am committed to crafting intuitive and dynamic applications that enhance user experiences. I specialize in Full-Stack development, with proficiency in a wide range of technologies including React, Node.js, MongoDB, MERN Stack, and Microservices architecture.
 
 🚀 **Experience**:<br>
-As a Junior Software Developer, I am eager to contribute to impactful projects and continue learning and growing in the dynamic field of Software Development. Let's connect and explore opportunities for collaboration!
+As a Software Developer, I am eager to contribute to impactful projects and continue learning and growing in the dynamic field of Software Development. Let's connect and explore opportunities for collaboration!
 
 🎓 **Education**: <br>
  Bachelor of Engineering in Electrical and Electronics Engineering  from the University of Khartoum (September 2016 - November 2023). 
