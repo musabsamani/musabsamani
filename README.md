@@ -3,7 +3,7 @@
 ### Hi there, I'm Musab Obada Y. Elsamani! 👋<br>
 Software Engineer | Full-Stack Developer | React Developer<br><br><br>
 ✨ **Objective**: <br>
-Passionate about leveraging technology to drive innovation and solve complex challenges, I am committed to crafting intuitive and dynamic applications that enhance user experiences. I specialize in Full-Stack development, with proficiency in a wide range of technologies including React, Node.js, MongoDB, MERN Stack, and Microservices architecture.
+Passionate about leveraging technology to drive innovation and solve complex challenges, I am committed to crafting intuitive and dynamic applications that enhance user experiences. I specialize in Full-Stack development, with proficiency in a wide range of technologies including React, Node.js, MongoDB, MERN Stack.
 
 🚀 **Experience**:<br>
 As a Software Developer, I am eager to contribute to impactful projects and continue learning and growing in the dynamic field of Software Development. Let's connect and explore opportunities for collaboration!
