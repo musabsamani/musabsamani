@@ -75,7 +75,7 @@ As a Software Developer, I am eager to contribute to impactful projects and cont
 
 ### 💬 Get in touch:
 Feel free to reach out to me via :
-- Email at dev@elsamani.com 
+- Email at musab@elsamani.com 
 - Connect with me on LinkedIn: [@musabsamani](https://www.linkedin.com/in/musabsamani).
 <br><br>
 [![](https://visitcount.itsvg.in/api?id=musabsamani&icon=0&color=0)](https://visitcount.itsvg.in)
