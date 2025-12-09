@@ -24,7 +24,6 @@ As a Software Developer, I am eager to contribute to impactful projects and cont
   - Git & GitHub.
   - Agile & Scrum.
   - Containerization & Docker.
-  - Microservices Architecture.
   - Serverless Application.
   - DevOps & CI/CD.
 
